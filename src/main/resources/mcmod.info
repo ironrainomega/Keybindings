@@ -1,0 +1,16 @@
+[
+{
+  "modid": "keybindings",
+  "name": "KeyBindings Import/Export",
+  "description": "A way to import/export key bindigs. Client side only!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TamasHenning"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
